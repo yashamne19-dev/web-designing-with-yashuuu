@@ -1,4 +1,4 @@
 # web-designing-with-yashuuu
 this is a demo repo
-yash amne
+Yash Amne<br>
 it25063
